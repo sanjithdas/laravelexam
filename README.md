@@ -10,6 +10,7 @@ Modules
     
     ![image](https://user-images.githubusercontent.com/18461928/151521719-dec95285-7408-4641-94c5-c8b307ab9e78.png)
     ![image](https://user-images.githubusercontent.com/18461928/151521974-6e3ac288-a916-4128-a370-5758a9efba8a.png)
+![image](https://user-images.githubusercontent.com/18461928/151525225-6b90fcc7-f7f9-41b7-9411-6a328dd210b5.png)
 
 
     Admin Dashboard Screenshot
