@@ -8,9 +8,8 @@ Modules
                       
     Exam Dashboard Screen shot                  
     
-    ![image](https://user-images.githubusercontent.com/18461928/151521719-dec95285-7408-4641-94c5-c8b307ab9e78.png)
-    ![image](https://user-images.githubusercontent.com/18461928/151521974-6e3ac288-a916-4128-a370-5758a9efba8a.png)
-![image](https://user-images.githubusercontent.com/18461928/151525225-6b90fcc7-f7f9-41b7-9411-6a328dd210b5.png)
+![image](https://user-images.githubusercontent.com/18461928/151649432-77e25adc-40d8-4b99-8e4a-8203994f7559.png)
+![image](https://user-images.githubusercontent.com/18461928/151649449-60cb55b8-a1e8-44c9-b203-00ef68d33f76.png)
 
 
     Admin Dashboard Screenshot
